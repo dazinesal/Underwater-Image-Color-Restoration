@@ -1,6 +1,4 @@
-# This program is usable in any Python inclusive environment.
-# The user must install all libraries cited below before running the program.
-# The user must change the folder and name of the source picture through the variable “folder” and “source” declared in the main function below.
+# Change the folder and name of the source picture through the variable “folder” and “source” declared in the main function below.
 # The processed images will be saved in the same folder where the input image exists.
 
 
